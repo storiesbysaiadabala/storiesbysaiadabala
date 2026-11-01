@@ -261,7 +261,7 @@ export const portfolioCategories = [
     id: "maternity-photography",
     title: "Maternity Photography",
     slug: "maternity-photography",
-    coverImage: "images/portfolio/maternity/maternity_cover.jpeg",
+    coverImage: "images/portfolio/Maternity/maternity_cover.jpeg",
     tagline: "Celebrating the miraculous beauty and gentle anticipation of motherhood.",
     shortDesc: "Tender, flattering, and timeless maternity portraits captured in studio luxury or ethereal outdoor landscapes.",
     photoCount: 24,
@@ -285,32 +285,32 @@ export const portfolioCategories = [
         images: [
           {
             id: "img-mat-1",
-            url: "images/portfolio/maternity/maternity1.jpeg",
+            url: "images/portfolio/Maternity/maternity1.jpeg",
             aspect: "tall"
           },
           {
             id: "img-mat-2",
-            url: "images/portfolio/maternity/maternity2.jpeg",
+            url: "images/portfolio/Maternity/maternity2.jpeg",
             aspect: "tall"
           },
           {
             id: "img-mat-3",
-            url: "images/portfolio/maternity/maternity3.jpeg",
+            url: "images/portfolio/Maternity/maternity3.jpeg",
             aspect: "tall"
           },
           {
             id: "img-mat-4",
-            url: "images/portfolio/maternity/maternity6.jpeg",
+            url: "images/portfolio/Maternity/maternity6.jpeg",
             aspect: "tall"
           },
           {
             id: "img-mat-5",
-            url: "images/portfolio/maternity/maternity7.jpeg",
+            url: "images/portfolio/Maternity/maternity7.jpeg",
             aspect: "tall"
           },
           {
             id: "img-mat-6",
-            url: "images/portfolio/maternity/maternity8.jpeg",
+            url: "images/portfolio/Maternity/maternity8.jpeg",
             aspect: "tall"
           }
         ]
