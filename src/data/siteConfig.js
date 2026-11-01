@@ -67,7 +67,7 @@ export const siteConfig = {
       primaryCta: "View Bridal Portraits",
       categoryTarget: "bride-groom-portraits",
       // videoUrl: "https://assets.mixkit.co/videos/preview/mixkit-young-bride-posing-in-her-wedding-dress-41372-large.mp4",
-      fallbackImage: "/images/hero/hero_1.jpeg",
+      fallbackImage: "images/hero/hero_1.jpeg",
       accent: "#D4AF37",
     },
     {
