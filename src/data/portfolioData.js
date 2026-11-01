@@ -17,7 +17,7 @@ export const portfolioCategories = [
     id: "wedding-photography",
     title: "Wedding Photography",
     slug: "wedding-photography",
-    coverImage: "/public/images/portfolio/weddings/wedding_cover.jpeg",
+    coverImage: "images/portfolio/weddings/wedding_cover.jpeg",
     tagline: "Sacred vows, unfiltered tears, and timeless cultural grandeur.",
     shortDesc: "Complete documentary and fine-art coverage of pre-wedding ceremonies, wedding rituals, and reception celebrations.",
     photoCount: 42,
@@ -46,47 +46,47 @@ export const portfolioCategories = [
         images: [
           {
             id: "img-w1-1",
-            url: "/public/images/portfolio/weddings/wedding_2.jpeg",
+            url: "images/portfolio/weddings/wedding_2.jpeg",
             aspect: "tall"
           },
           {
             id: "img-w1-2",
-            url: "/public/images/portfolio/weddings/wedding_1.jpeg",
+            url: "images/portfolio/weddings/wedding_1.jpeg",
             aspect: "tall"
           },
           {
             id: "img-w1-3",
-            url: "/public/images/portfolio/weddings/wedding_3.jpeg",
+            url: "images/portfolio/weddings/wedding_3.jpeg",
             aspect: "tall"
           },
           {
             id: "img-w1-4",
-            url: "/public/images/portfolio/weddings/wedding_4.jpeg",
+            url: "images/portfolio/weddings/wedding_4.jpeg",
             aspect: "tall"
           },
           {
             id: "img-w1-5",
-            url: "/public/images/portfolio/weddings/wedding_5.jpeg",
+            url: "images/portfolio/weddings/wedding_5.jpeg",
             aspect: "tall"
           },
           {
             id: "img-w1-6",
-            url: "/public/images/portfolio/weddings/wedding_6.jpeg",
+            url: "images/portfolio/weddings/wedding_6.jpeg",
             aspect: "tall"
           },
           {
             id: "img-w1-7",
-            url: "/public/images/portfolio/weddings/wedding_7.jpeg",
+            url: "images/portfolio/weddings/wedding_7.jpeg",
             aspect: "tall"
           },
           {
             id: "img-w1-8",
-            url: "/public/images/portfolio/weddings/wedding_8.jpeg",
+            url: "images/portfolio/weddings/wedding_8.jpeg",
             aspect: "tall"
           },
           {
             id: "img-w1-9",
-            url: "/public/images/portfolio/weddings/wedding_9.jpeg", 
+            url: "images/portfolio/weddings/wedding_9.jpeg", 
             aspect: "tall"
           }
         ]
@@ -97,7 +97,7 @@ export const portfolioCategories = [
     id: "bride-groom-portraits",
     title: "Bride & Groom Portraits",
     slug: "bride-groom-portraits",
-    coverImage: "/public/images/portfolio/bride_groom/bride_cover.jpeg",
+    coverImage: "images/portfolio/bride_groom/bride_cover.jpeg",
     tagline: "Regal silhouettes, intimate glances, and couture details.",
     shortDesc: "Dedicated bridal and groom solo sessions plus intimate couple portraiture focusing on bespoke lighting, posture, and couture.",
     photoCount: 36,
@@ -123,21 +123,21 @@ export const portfolioCategories = [
         location: "Hyderabad, India",
         date: "January 2026",
         summary: "A study in royal bridal grace, capturing intricate polki stones, handwoven silk textures, and quiet pre-wedding contemplation.",
-        cover: "/images/portfolio/bride_groom/bride_4.jpeg",
+        cover: "images/portfolio/bride_groom/bride_4.jpeg",
         images: [
           {
             id: "img-bg1-1",
-            url: "/images/portfolio/bride_groom/bride_1.jpeg",
+            url: "images/portfolio/bride_groom/bride_1.jpeg",
             aspect: "tall"
           },
           {
             id: "img-bg1-2",
-            url: "/images/portfolio/bride_groom/bride_2.jpeg",
+            url: "images/portfolio/bride_groom/bride_2.jpeg",
             aspect: "tall"
           },
           {
             id: "img-bg1-4",
-            url: "/images/portfolio/bride_groom/bride_4.jpeg",
+            url: "images/portfolio/bride_groom/bride_4.jpeg",
             aspect: "tall"
           }
         ]
@@ -148,7 +148,7 @@ export const portfolioCategories = [
     id: "pre-wedding-photography",
     title: "Pre-Wedding Photography",
     slug: "pre-wedding-photography",
-    coverImage: "/images/portfolio/prewedding/pre_cover.jpeg",
+    coverImage: "images/portfolio/prewedding/pre_cover.jpeg",
     tagline: "Narrative romance filmed like an unforgettable motion picture.",
     shortDesc: "Cinematic destination shoots capturing your unique story, playful chemistry, and shared passions before your big day.",
     startingPrice: "₹30,000",
@@ -198,7 +198,7 @@ export const portfolioCategories = [
     id: "engagement-photography",
     title: "Engagement & Reception Photography",
     slug: "engagement-photography",
-    coverImage: "/images/portfolio/engagement/eng_cover.png",
+    coverImage: "images/portfolio/engagement/eng_cover.png",
     tagline: "The sparkle of new promises and the start of a lifetime journey.",
     shortDesc: "Documenting proposal surprises, ring ceremonies, and celebratory dinners with style and intimacy.",
     startingPrice: "₹25,000",
@@ -227,28 +227,28 @@ export const portfolioCategories = [
         images: [
           {
             id: "img-eng-1",
-            url: "/images/portfolio/engagement/eng_1.jpeg",
+            url: "images/portfolio/engagement/eng_1.jpeg",
             caption: "The diamond ring exchange framed against floral bells",
             alt: "Hands with engagement rings close up",
             aspect: "tall"
           },
           {
             id: "img-eng-2",
-            url: "/images/portfolio/engagement/eng_2.jpeg",
+            url: "images/portfolio/engagement/eng_2.jpeg",
             caption: "Pure joy the instant she said yes",
             alt: "Couple cheering after proposal",
             aspect:"tall"
           },
           {
             id: "img-eng-3",
-            url: "/images/portfolio/engagement/eng_3.jpeg",
+            url: "images/portfolio/engagement/eng_3.jpeg",
             caption: "Pure joy the instant she said yes",
             alt: "Couple cheering after proposal",
             aspect: "tall"
           },
           {
             id: "img-eng-4",
-            url: "/images/portfolio/engagement/eng_4.jpeg",
+            url: "images/portfolio/engagement/eng_4.jpeg",
             caption: "Pure joy the instant she said yes",
             alt: "Couple cheering after proposal",
             aspect: "tall"
@@ -261,7 +261,7 @@ export const portfolioCategories = [
     id: "maternity-photography",
     title: "Maternity Photography",
     slug: "maternity-photography",
-    coverImage: "/public/images/portfolio/maternity/maternity_cover.jpeg",
+    coverImage: "images/portfolio/maternity/maternity_cover.jpeg",
     tagline: "Celebrating the miraculous beauty and gentle anticipation of motherhood.",
     shortDesc: "Tender, flattering, and timeless maternity portraits captured in studio luxury or ethereal outdoor landscapes.",
     photoCount: 24,
@@ -285,32 +285,32 @@ export const portfolioCategories = [
         images: [
           {
             id: "img-mat-1",
-            url: "/public/images/portfolio/maternity/maternity1.jpeg",
+            url: "images/portfolio/maternity/maternity1.jpeg",
             aspect: "tall"
           },
           {
             id: "img-mat-2",
-            url: "/public/images/portfolio/maternity/maternity2.jpeg",
+            url: "images/portfolio/maternity/maternity2.jpeg",
             aspect: "tall"
           },
           {
             id: "img-mat-3",
-            url: "/public/images/portfolio/maternity/maternity3.jpeg",
+            url: "images/portfolio/maternity/maternity3.jpeg",
             aspect: "tall"
           },
           {
             id: "img-mat-4",
-            url: "/public/images/portfolio/maternity/maternity6.jpeg",
+            url: "images/portfolio/maternity/maternity6.jpeg",
             aspect: "tall"
           },
           {
             id: "img-mat-5",
-            url: "/public/images/portfolio/maternity/maternity7.jpeg",
+            url: "images/portfolio/maternity/maternity7.jpeg",
             aspect: "tall"
           },
           {
             id: "img-mat-6",
-            url: "/public/images/portfolio/maternity/maternity8.jpeg",
+            url: "images/portfolio/maternity/maternity8.jpeg",
             aspect: "tall"
           }
         ]
@@ -321,7 +321,7 @@ export const portfolioCategories = [
     id: "baby-family-photography",
     title: "Baby & Family Photography",
     slug: "baby-family-photography",
-    coverImage: "/images/portfolio/baby/b9_cover.jpeg",
+    coverImage: "images/portfolio/baby/b9_cover.jpeg",
     tagline: "Preserving generational warmth, innocent smiles, and chaotic family love.",
     shortDesc: "Warm, authentic newborn and multigenerational family portrait sessions made fun, relaxed, and memorable.",
     startingPrice: "₹10,000",
@@ -350,47 +350,47 @@ export const portfolioCategories = [
         images: [
           {
             id: "img-fam-1",
-            url: "/images/portfolio/baby/b1.jpeg",
+            url: "images/portfolio/baby/b1.jpeg",
             aspect: "tall"
           },
           {
             id: "img-fam-2",
-            url: "/images/portfolio/baby/b2.jpeg",
+            url: "images/portfolio/baby/b2.jpeg",
             aspect: "tall"
           },
           {
             id: "img-fam-3",
-            url: "/images/portfolio/baby/b9.jpeg",
+            url: "images/portfolio/baby/b9.jpeg",
             aspect: "tall"
           },
           {
             id: "img-fam-4",
-            url: "/images/portfolio/baby/b4.jpeg",
+            url: "images/portfolio/baby/b4.jpeg",
             aspect: "tall"
           },
           {
             id: "img-fam-5",
-            url: "/images/portfolio/baby/b5.jpeg",
+            url: "images/portfolio/baby/b5.jpeg",
             aspect: "tall"
           },
           {
             id: "img-fam-6",
-            url: "/images/portfolio/baby/b6.jpeg",
+            url: "images/portfolio/baby/b6.jpeg",
             aspect: "tall"
           },
           {
             id: "img-fam-7",
-            url: "/images/portfolio/baby/b7.jpeg",
+            url: "images/portfolio/baby/b7.jpeg",
             aspect: "tall"
           },
           {
             id: "img-fam-8",
-            url: "/images/portfolio/baby/b8.jpeg",
+            url: "images/portfolio/baby/b8.jpeg",
             aspect: "tall"
           },
           {
             id: "img-fam-9",
-            url: "/images/portfolio/baby/b3.jpeg",
+            url: "images/portfolio/baby/b3.jpeg",
             aspect: "tall"
           }
         ]
@@ -401,7 +401,7 @@ export const portfolioCategories = [
     id: "portrait-lifestyle",
     title: "Portrait & Lifestyle",
     slug: "portrait-lifestyle",
-    coverImage: "/images/uploads/u1.jpeg",
+    coverImage: "images/uploads/u1.jpeg",
     tagline: "Magazine-grade aesthetics, dramatic shadow, and compelling identity.",
     shortDesc: "Individual artist profiles, fashion lookbooks, executive branding, and modern lifestyle photography.",
     photoCount: 38,
@@ -425,17 +425,17 @@ export const portfolioCategories = [
         images: [
           {
             id: "img-port-1",
-            url: "/images/uploads/u1.jpeg",
+            url: "images/uploads/u1.jpeg",
             aspect: "tall"
           },
           {
             id: "img-port-2",
-            url: "/images/uploads/u3.jpeg",
+            url: "images/uploads/u3.jpeg",
             aspect: "tall"
           },
           {
             id: "img-port-3",
-            url: "/images/uploads/u2.jpeg",
+            url: "images/uploads/u2.jpeg",
             aspect: "tall"
           }
         ]
@@ -446,7 +446,7 @@ export const portfolioCategories = [
     id: "event-photography",
     title: "Birth Days & Events Photography",
     slug: "event-photography",
-    coverImage: "/public/images/portfolio/bday_events/event_cover.jpeg",
+    coverImage: "images/portfolio/bday_events/event_cover.jpeg",
     tagline: "Capturing high-energy celebrations, galas, and momentous milestones.",
     shortDesc: "Comprehensive photo and video coverage for milestone birthdays, corporate galas, award nights, and concerts.",
     startingPrice: "₹25,000",
@@ -471,36 +471,36 @@ export const portfolioCategories = [
         location: "Hyderabad, India",
         date: "December 2023",
         summary: "An electrifying evening of champagne toasts, live jazz, and rooftop celebrations overlooking the coast.",
-        cover: "/public/images/portfolio/bday_events/event1.jpeg",
+        cover: "images/portfolio/bday_events/event1.jpeg",
         images: [
           {
             id: "img-eve-4",
-            url: "/images/portfolio/bday_events/bday1.jpeg",
+            url: "images/portfolio/bday_events/bday1.jpeg",
             aspect: "tall"
           },
           {
             id: "img-eve-5",
-            url: "/images/portfolio/bday_events/bday2.jpeg",
+            url: "images/portfolio/bday_events/bday2.jpeg",
             aspect: "tall"
           },
           {
             id: "img-eve-6",
-            url: "/images/portfolio/bday_events/bday3.jpeg",
+            url: "images/portfolio/bday_events/bday3.jpeg",
             aspect: "tall"
           },
           {
             id: "img-eve-1",
-            url: "/images/portfolio/bday_events/event1.jpeg",
+            url: "images/portfolio/bday_events/event1.jpeg",
             aspect: "tall"
           },
           {
             id: "img-eve-2",
-            url: "/images/portfolio/bday_events/event4.jpeg",
+            url: "images/portfolio/bday_events/event4.jpeg",
             aspect: "tall"
           },
           {
             id: "img-eve-3",
-            url: "/images/portfolio/bday_events/event5.jpeg",
+            url: "images/portfolio/bday_events/event5.jpeg",
             aspect: "tall"
           },
         ]
@@ -511,7 +511,7 @@ export const portfolioCategories = [
     id: "photo-editing",
     title: "Photo Editing & Retouching",
     slug: "photo-editing",
-    coverImage: "/images/portfolio/Editing/editing_cover.png",
+    coverImage: "images/portfolio/Editing/editing_cover.png",
     tagline: "Archival color science, skin micro-texture, and cinematic tones.",
     shortDesc: "High-end post-production services for photographers, advertising agencies, and clients wanting master-grade images.",
     photoCount: 20,
@@ -540,12 +540,12 @@ export const portfolioCategories = [
         images: [
           {
             id: "img-edit-1",
-            url: "/images/uploads/u5.jpeg",
+            url: "images/uploads/u5.jpeg",
             aspect: "tall"
           },
           {
             id: "img-edit-2",
-            url: "/images/uploads/u6.jpeg",
+            url: "images/uploads/u6.jpeg",
             aspect: "tall"
           }
         ]
