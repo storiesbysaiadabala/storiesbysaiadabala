@@ -79,7 +79,7 @@ export const siteConfig = {
       categoryTarget: "wedding-photography",
       // High-quality cinematic wedding video & fallback image
       // videoUrl: "https://assets.mixkit.co/videos/preview/mixkit-bride-and-groom-posing-in-a-forest-42898-large.mp4",
-      fallbackImage: "/images/hero/hero_2.jpeg",
+      fallbackImage: "images/hero/hero_2.jpeg",
       accent: "#C5A880",
     },
     {
@@ -90,7 +90,7 @@ export const siteConfig = {
       primaryCta: "Discover Pre-Wedding Film",
       categoryTarget: "pre-wedding-photography",
       // videoUrl: "https://assets.mixkit.co/videos/preview/mixkit-couple-in-love-walking-together-on-the-beach-at-sunset-42897-large.mp4",
-      fallbackImage: "/images/hero/hero_3.jpeg",
+      fallbackImage: "images/hero/hero_3.jpeg",
       accent: "#E5C392",
     },
     {
@@ -101,7 +101,7 @@ export const siteConfig = {
       primaryCta: "Explore Editorial Works",
       categoryTarget: "portrait-lifestyle",
       // videoUrl: "https://assets.mixkit.co/videos/preview/mixkit-model-holding-a-bouquet-of-flowers-42899-large.mp4",
-      fallbackImage: "/images/hero/hero_4.jpeg",
+      fallbackImage: "images/hero/hero_4.jpeg",
       accent: "#D8B48D",
     },
   ],
@@ -117,7 +117,7 @@ export const siteConfig = {
     ],
     signatureName: "SAI ADABALA",
     signatureTitle: "Founder & Creative Director",
-    featuredImage: "/images/portfolio/self/sai_1.jpeg",
+    featuredImage: "images/portfolio/self/sai_1.jpeg",
     studioDetailImages: [
       "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=600&q=80",
       "https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?auto=format&fit=crop&w=600&q=80",
@@ -163,42 +163,42 @@ export const siteConfig = {
   instagramFeed: [
     {
       id: "ig-1",
-      image: "/images/uploads/u1.jpeg",
+      image: "images/uploads/u1.jpeg",
       caption: "Golden hour promises and cinematic vows 🌅",
       likes: "1.4k",
       comments: "84"
     },
     {
       id: "ig-2",
-      image: "/images/uploads/u2.jpeg",
+      image: "images/uploads/u2.jpeg",
       caption: "Bridal majesty in handcrafted zardozi 👑",
       likes: "2.1k",
       comments: "142"
     },
     {
       id: "ig-3",
-      image: "/images/uploads/u3.jpeg",
+      image: "images/uploads/u3.jpeg",
       caption: "Candid laughter during the Haldi rituals 💛",
       likes: "1.8k",
       comments: "96"
     },
     {
       id: "ig-4",
-      image: "/images/uploads/u5.jpeg",
+      image: "images/uploads/u5.jpeg",
       caption: "Editorial portraiture for Vogue Runway preview",
       likes: "940",
       comments: "51"
     },
     {
       id: "ig-5",
-      image: "/images/uploads/u6.jpeg",
+      image: "images/uploads/u6.jpeg",
       caption: "Sunset silhouetted under Tuscan arches 🍷",
       likes: "2.8k",
       comments: "188"
     },
     {
       id: "ig-6",
-      image: "/images/uploads/u4.jpeg",
+      image: "images/uploads/u4.jpeg",
       caption: "Fine-art black & white bridal preparations 🖤",
       likes: "1.2k",
       comments: "63"
